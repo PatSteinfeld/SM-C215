@@ -32,7 +32,7 @@ The code for the experiments is split into 6 Python files and 4 R files:
 - experiment8.R: code for Experiment 8
 - experiment9.R: code for Experiment 9
 - experiment10.R: code for Experiment 10
-- Which includes main.r to main(4).r
+- Which includes main.r to main(5).r
 ## Data
 The data for the experiments is contained in the data folder. Each experiment has its own data file in CSV format.
 

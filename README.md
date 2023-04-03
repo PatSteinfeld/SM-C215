@@ -39,4 +39,4 @@ The data for the experiments is contained in the data folder. Each experiment ha
 To run an experiment, simply run the relevant Python or R file. Before running, ensure that all necessary packages and libraries are installed.
 
 ## Contributors
-This repository was created by Pratyush Sivadasan.
+This repository was created by Pratyush Sivadasan
